@@ -15,6 +15,7 @@
   There are no installation instructions.
 
   ## Usage
+  Link to website:https://asia-note-taker-5c37a5c8f90d.herokuapp.com/
   Go to the website and click get started. There you will type your notes and click the save button to save the notes to the left hand column. 
 
   ## Questions
